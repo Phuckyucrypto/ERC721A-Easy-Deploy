@@ -1,7 +1,3 @@
-# Smart Contract Deployment Guide
-
-This guide provides a detailed, step-by-step process to deploy your smart contract.
-
 ## Deployment Steps
 
 1. **Navigate to the smart contract directory:**
